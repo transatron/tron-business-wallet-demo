@@ -1,0 +1,1 @@
+.\jre1.8.0_391\bin\javaw.exe -jar TokenDistributorApp-1.0-jar-with-dependencies.jar
