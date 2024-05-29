@@ -7,3 +7,11 @@
  1. MacOS: install java8 manually from the distribution provided, then use `start.sh` to start an app.
 
 Get back to us via [Transatron Project](https://forum.trondao.org/t/transatron-transact-in-tron-without-trx/25009) on TronDAO forum with any questions. 
+
+# Hackathon project sources
+
+Below are the sources of the related hackathon project for reference.
+
+https://github.com/transatron/transaction-manager-server
+
+https://github.com/transatron/tron-business-wallet-demo 
